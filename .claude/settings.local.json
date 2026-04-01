@@ -4,7 +4,13 @@
       "Bash(git init:*)",
       "Bash(git checkout:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m \"Initial monorepo scaffold for ESP32 development:*)"
+      "Bash(git commit -m \"Initial monorepo scaffold for ESP32 development:*)",
+      "Bash(gh repo:*)",
+      "Bash(ssh:*)",
+      "Bash(git push:*)",
+      "Bash(git commit -m \"Add tic-tac-toe web server project for ESP32-S3 Super Mini:*)",
+      "Bash(pio run:*)",
+      "WebSearch"
     ]
   }
 }
