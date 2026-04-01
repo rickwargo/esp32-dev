@@ -1,0 +1,29 @@
+# Build output
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# PlatformIO
+**/.pio/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Secrets / credentials
+*.env
+secrets.h
+credentials.h
