@@ -1,0 +1,1 @@
+- [ESP32-S3 Super Mini board](project_esp32_board.md) — custom board def: esp32-s3-supermini with USB CDC flags
